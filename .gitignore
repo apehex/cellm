@@ -1,0 +1,13 @@
+# secrets
+.env
+
+# python env
+.venv
+uv.lock
+
+# temp
+.pytest_cache
+__pycache__
+
+# artifacts
+dist
