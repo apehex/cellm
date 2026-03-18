@@ -8,10 +8,10 @@ The goal is to ensure consistent contributions across automated and human collab
 
 Agents should:
 
-* prioritize clarity over novelty
-* keep implementations minimal
-* document reasoning when introducing structural changes
-* avoid unnecessary abstractions
+- prioritize clarity over novelty
+- keep implementations minimal
+- document reasoning when introducing structural changes
+- avoid unnecessary abstractions
 
 The project is experimental and exploratory.
 Agents should prefer simple prototypes over complex systems.
@@ -20,10 +20,10 @@ Agents should prefer simple prototypes over complex systems.
 
 Agents should:
 
-* keep experiments isolated
-* avoid breaking existing experiments
-* prefer reproducible scripts
-* include short documentation for each experiment
+- keep experiments isolated
+- avoid breaking existing experiments
+- prefer reproducible scripts
+- include short documentation for each experiment
 
 Experiments should be easy to delete or rewrite.
 
@@ -31,9 +31,9 @@ Experiments should be easy to delete or rewrite.
 
 Agents should update documentation when:
 
-* introducing new experimental directions
-* adding new infrastructure
-* changing important assumptions
+- introducing new experimental directions
+- adding new infrastructure
+- changing important assumptions
 
 Documentation should remain concise and factual.
 
@@ -41,8 +41,8 @@ Documentation should remain concise and factual.
 
 Agents should not attempt to:
 
-* prematurely optimize performance
-* build large training pipelines
-* add heavy infrastructure without justification
+- prematurely optimize performance
+- build large training pipelines
+- add heavy infrastructure without justification
 
-The primary objective is **understanding computation structure**.
+The primary objective is understanding computation structure.

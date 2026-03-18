@@ -1,6 +1,14 @@
-# Context Of The Project
+# Context
 
-**cellm** explores whether neural networks can be organized as systems of semi-autonomous computational "cells".
+## Repository
+
+`apehex/cellm` on Github.
+
+## Purpose
+
+Explore whether neural networks can be organized as systems of semi-autonomous computational "cells".
+
+## Objectives
 
 The project investigates how modern large language models (LLMs) can be decomposed into interacting components that:
 
